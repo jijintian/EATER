@@ -1,5 +1,5 @@
 # EATER
-The code for incomplete work EATER in Neural Networks
+The code for incomplete work "Incomplete multi-view clustering via efficient anchor tensor recovery framework (EATER)" in Neural Networks
 # Citation
 If you find our repository useful, please consider citing "Incomplete multi-view clustering via efficient anchor tensor recovery framework"
 ``` js
